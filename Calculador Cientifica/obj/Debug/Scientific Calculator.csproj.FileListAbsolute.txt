@@ -1,0 +1,28 @@
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\bin\Debug\Calculador Cientifica.exe.config
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\bin\Debug\Calculador Cientifica.exe
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\bin\Debug\Calculador Cientifica.pdb
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.AssemblyReference.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Interop.WMPLib.dll
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.ResolveComReference.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Calculador_Cientifica.Form1.resources
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Calculador_Cientifica.Properties.Resources.resources
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.GenerateResource.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Calculador Cientifica.exe
+C:\Users\Iyip\Desktop\Scientific-Calculator\Calculador Cientifica\obj\Debug\Calculador Cientifica.pdb
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\bin\Debug\Calculador Cientifica.exe.config
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\bin\Debug\Calculador Cientifica.exe
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\bin\Debug\Calculador Cientifica.pdb
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.AssemblyReference.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Interop.WMPLib.dll
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.ResolveComReference.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Calculador_Cientifica.Form1.resources
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Calculador_Cientifica.Properties.Resources.resources
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.GenerateResource.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Scientific Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Calculador Cientifica.exe
+C:\Users\Iyip\Desktop\Scientific-Calculator Jeric\Calculador Cientifica\obj\Debug\Calculador Cientifica.pdb

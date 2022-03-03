@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37467bd6-0538-47aa-ace6-1a13698bcf68": {
+      "ProjectGuid": "37467bd6-0538-47aa-ace6-1a13698bcf68",
+      "DisplayName": "Calculador Cientifica",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
